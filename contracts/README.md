@@ -12,6 +12,13 @@ The **DNAHashGenerator** is a Solidity smart contract that allows users to gener
 2. Call `generateDNA(string)` with an input string.
 3. Retrieve the stored hash for an address using `dnaRecords(address)`.
 
+## Security Enhancements:
+- Added input validation to prevent empty submissions.
+- Prevented duplicate DNA generation for the same address.
+
+## Code Readability & Maintainability:
+- Improved function structuring and comments for better clarity.
+
 ### 🔍 DNA Retrieval Screenshot
 Here is a screenshot showing the retrieval of the hash:
 
@@ -41,4 +48,5 @@ The contract is available in the **contracts/** directory:
 
 ## 📢 About This Repository:
 This repository is part of my journey in **Building My Blockchain Stack** as I progress in blockchain development.
+
 
