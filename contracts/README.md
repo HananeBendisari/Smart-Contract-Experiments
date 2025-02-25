@@ -40,6 +40,10 @@ Attempting to generate DNA twice for the same address results in an error:
 ## 📂 Contract Code:
 The contract is available in the **contracts/** directory:
 
+🚀 Gas Optimizations:
+- Replaced `string memory` with `string calldata` in `generateDNA()` to reduce memory usage and lower gas costs.
+- Ensured efficient use of storage by reading before writing where applicable.
+
 ## 🚀 Deployment
 
 The smart contract was successfully deployed in the Remix environment. Below is a screenshot of the deployment:
