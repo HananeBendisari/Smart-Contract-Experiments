@@ -13,7 +13,7 @@ The **DNAHashGenerator** is a Solidity smart contract that allows users to gener
 3. Retrieve the stored hash for an address using `dnaRecords(address)`.
 
 ### 🔍 DNA Retrieval Screenshot
-Voici une capture d’écran montrant la récupération du hash:
+Here is a screenshot showing the retrieval of the hash:
 
 ![Retrieve DNA](screenshots/retrieve_dna.png)
 
