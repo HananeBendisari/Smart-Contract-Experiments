@@ -17,6 +17,18 @@ Here is a screenshot showing the retrieval of the hash:
 
 ![Retrieve DNA](screenshots/retrieve_dna.png)
 
+### Input Validation
+
+When trying to submit an empty input, the button is disabled:
+
+![Empty Input Blocked](screenshots/empty_input_blocked.png)
+
+### Duplicate DNA Rejection
+
+Attempting to generate DNA twice for the same address results in an error:
+
+![Duplicate DNA Rejected](screenshots/duplicate_DNA_rejected.png)
+
 
 ## 📂 Contract Code:
 The contract is available in the **contracts/** directory:
