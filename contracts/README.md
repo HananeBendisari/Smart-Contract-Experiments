@@ -40,6 +40,11 @@ Attempting to generate DNA twice for the same address results in an error:
 ## 📂 Contract Code:
 The contract is available in the **contracts/** directory:
 
+## 🚀 Deployment
+
+The smart contract was successfully deployed in the Remix environment. Below is a screenshot of the deployment:
+
+![Deployment Screenshot](screenshots/deployment.png)
 
 ## 🚀 Next Steps:
 - Implement a verification system.
