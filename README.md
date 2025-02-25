@@ -53,6 +53,6 @@ Stay tuned for a **custom Web3 interface** showcasing my smart contract projects
 ---
 
 ### **📞 Let’s Connect!**  
-💼 **LinkedIn:** [linkedin.com/in/hananebendisari](#)  
+💼 **LinkedIn:** [linkedin.com/in/hananebendisari/](#)  
 🐙 **GitHub:** [github.com/HananeBendisari](#)  
 📩 **Reach out for collaboration!**  
