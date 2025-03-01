@@ -43,13 +43,6 @@ The **DNAHashGenerator** is a Solidity smart contract that allows the contract o
 
 ---
 
-## 📢 **Next Steps**
-- 🔍 **Verify contract on Etherscan** to make it publicly auditable.
-- 🛠 **Deploy on a mainnet** once all testing is finalized.
-- 🚀 **Build a front-end DApp** to interact with the contract easily.
-
----
-
 ## 📞 **Get in Touch!**
 💼 **LinkedIn:** [linkedin.com/in/hanane-bendisari/](https://www.linkedin.com/in/hanane-bendisari/)  
 🐙 **GitHub:** [github.com/HananeBendisari](https://github.com/HananeBendisari)  
