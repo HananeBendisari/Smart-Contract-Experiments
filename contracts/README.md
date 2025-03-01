@@ -43,6 +43,20 @@ The **DNAHashGenerator** is a Solidity smart contract that allows the contract o
 
 ---
 
+## 🧪 **Next Steps: Hardhat Testing & Audit**
+
+### **🔹 Setting up Hardhat for Testing:**
+- Initialize Hardhat in your project.
+- Write unit tests using Mocha & Chai.
+- Simulate different test cases, including failure scenarios.
+
+### **🔹 Smart Contract Audit & Optimizations:**
+- Analyze potential security vulnerabilities.
+- Improve gas efficiency where possible.
+- Implement additional security measures if needed.
+
+---
+
 ## 📞 **Get in Touch!**
 💼 **LinkedIn:** [linkedin.com/in/hanane-bendisari/](https://www.linkedin.com/in/hanane-bendisari/)  
 🐙 **GitHub:** [github.com/HananeBendisari](https://github.com/HananeBendisari)  
